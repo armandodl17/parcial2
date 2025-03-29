@@ -1,0 +1,9 @@
+body{
+    background-image: url("../imagenes/supermarket-background-p6at3wx8tfok5n9q.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Efecto parallax */
+
+
+}
